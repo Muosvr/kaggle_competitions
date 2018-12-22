@@ -2,7 +2,7 @@
 
 ### Credit Default Risk
 * [Competition Overview](https://www.kaggle.com/c/home-credit-default-risk)
-* [Jupyter Notebook]https://github.com/Muosvr/home-credit-default-risk/blob/master/home-credit-default-risk.ipynb
+* [Jupyter Notebook](https://github.com/Muosvr/home-credit-default-risk/blob/master/home-credit-default-risk.ipynb)
 
 ### iMaterialist Challenge (Fashion 2018)
 * [Competition Overview](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018)
